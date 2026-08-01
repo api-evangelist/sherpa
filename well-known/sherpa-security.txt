@@ -1,0 +1,4 @@
+Contact: mailto:security@sherpahq.ai
+Expires: 2027-07-20T00:00:00.000Z
+Preferred-Languages: en, de
+Canonical: https://sherpahq.ai/.well-known/security.txt
