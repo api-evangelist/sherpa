@@ -1,0 +1,29 @@
+# Front Door AI Index — sherpa — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: sherpa
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: sherpahq.ai
+  final_host: sherpahq.ai
+  ownership: own
+  owner: sherpa
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 11
+  host_score: 11
+  density: 18.77
+  words: 586
+  tiers:
+    agentic: 4
+    core: 7
+    model: 0
+  ambiguous: 11
+  top_terms:
+    agent: 10
+    AI: 7
+    AI agent: 3
+    agentic: 1
+    intelligence: 1
